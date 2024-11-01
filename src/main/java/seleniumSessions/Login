@@ -2,7 +2,7 @@ package seleniumSessions;
 
 public class Login {
 int i=10;
-
+String s;
 public void main()
 {
 System.out.println("main--- prakruthi");
