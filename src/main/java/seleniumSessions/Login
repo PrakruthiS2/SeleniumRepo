@@ -5,7 +5,7 @@ int i=10;
 
 public void main()
 {
-System.out.pritnln("main--- prakruthi");
+System.out.println("main--- prakruthi");
 }
 
 
